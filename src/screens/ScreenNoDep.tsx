@@ -43,7 +43,7 @@ export default function ScreenNoDep() {
           <p className="text-center text-white/70 text-xs font-light">
             Se hai qualche domanda -{' '}
             <a
-              href="https://t.me/DanteValdesBot"
+              href="https://t.me/DanteValdes_Bot"
               target="_blank"
               rel="noopener noreferrer"
               className="text-yellow-400 hover:text-yellow-500 transition-colors"
