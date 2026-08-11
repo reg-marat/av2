@@ -48,7 +48,7 @@ export default function ScreenNoReg() {
               rel="noopener noreferrer"
               className="text-yellow-400 hover:text-yellow-500 transition-colors"
             >
-              @Dante_Valdes
+              @Admin
             </a>
           </p>
         </div>
